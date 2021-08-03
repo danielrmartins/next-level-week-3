@@ -15,7 +15,7 @@ Implementação do projeto estudado na maratona Next Level Week 3 da Rocketseat.
 
 ## 🖌&nbsp; Layout do Projeto 
 
-[Link do projeto]((https://www.youtube.com/watch?v=-iCMj3aIBbo&t=1s))
+[Link do projeto](https://www.youtube.com/watch?v=-iCMj3aIBbo&t=1s)
 
 ---
 
